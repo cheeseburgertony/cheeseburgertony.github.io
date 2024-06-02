@@ -8,7 +8,29 @@
     <author>
       <name>cheeseburgertony</name>
     </author>
-    <updated>2024-06-02T02:20:26.839Z</updated>
+    <updated>2024-06-02T09:48:49.979Z</updated>
+    <entry>
+        <id>http://example.com/2024/06/02/Something/</id>
+        <title>一些资源的合集</title>
+        <link rel="alternate" href="http://example.com/2024/06/02/Something/"/>
+        <content type="html">&lt;p&gt;&lt;a href=&#34;https://labuladong.online/algo/&#34;&gt;https://labuladong.online/algo/&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://www.hello-algo.com/&#34;&gt;https://www.hello-algo.com/&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://zh.javascript.info/&#34;&gt;https://zh.javascript.info/&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://programmercarl.com/&#34;&gt;https://programmercarl.com/&lt;/a&gt;&lt;br /&gt;
+ 入门推荐第二个，刷题推荐第一个，第一个跟完后去跟最后一个&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/KUN1007/kungalgame-pure-css&#34;&gt;https://github.com/KUN1007/kungalgame-pure-css&lt;/a&gt;&lt;br /&gt;
+ 这个人为自己的网站纯 html + css 画的原型图&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://lamphc.github.io/fe-up/#/resume/index&#34;&gt;https://lamphc.github.io/fe-up/#/resume/index&lt;/a&gt;  面试题&lt;br /&gt;
+ B 站 codereasy 有面试题可以看看&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.bootcss.com/&#34;&gt;https://www.bootcss.com/&lt;/a&gt;  Bootstrap 文档&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.swiper.com.cn/&#34;&gt;https://www.swiper.com.cn/&lt;/a&gt;swiper 多适用于移动端的插件（例如快速构建轮播图）&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.webpackjs.com/&#34;&gt;https://www.webpackjs.com/&lt;/a&gt; Webpack 网站&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.npmjs.com/&#34;&gt;https://www.npmjs.com/&lt;/a&gt; 需要用 npm 下载的包，不知道包名可以查找&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.bootcdn.cn/&#34;&gt;https://www.bootcdn.cn/&lt;/a&gt; 查找 cdn 的网站&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://unpkg.com/%7B%E8%A6%81%E6%9F%A5%E6%89%BE%E7%9A%84%E6%8F%92%E4%BB%B6%E5%90%8D%7D&#34;&gt;https://unpkg.com/{要查找的插件名}&lt;/a&gt;  如果没有对应 cdn，可在这个网站后面加上要查找的插件名，网站会自动跳转不全这个 unpkg，然后直接引用就可以了&lt;/p&gt;
+</content>
+        <updated>2024-06-02T09:48:49.979Z</updated>
+    </entry>
     <entry>
         <id>http://example.com/2024/06/02/hello-world/</id>
         <title>Hello World</title>

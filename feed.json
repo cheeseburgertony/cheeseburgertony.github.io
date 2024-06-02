@@ -7,6 +7,14 @@
     "home_page_url": "http://example.com",
     "items": [
         {
+            "id": "http://example.com/2024/06/02/Something/",
+            "url": "http://example.com/2024/06/02/Something/",
+            "title": "一些资源的合集",
+            "date_published": "2024-06-02T09:48:49.979Z",
+            "content_html": "<p><a href=\"https://labuladong.online/algo/\">https://labuladong.online/algo/</a><br />\n<a href=\"https://www.hello-algo.com/\">https://www.hello-algo.com/</a><br />\n<a href=\"https://zh.javascript.info/\">https://zh.javascript.info/</a><br />\n<a href=\"https://programmercarl.com/\">https://programmercarl.com/</a><br />\n 入门推荐第二个，刷题推荐第一个，第一个跟完后去跟最后一个</p>\n<p><a href=\"https://github.com/KUN1007/kungalgame-pure-css\">https://github.com/KUN1007/kungalgame-pure-css</a><br />\n 这个人为自己的网站纯 html + css 画的原型图</p>\n<p><a href=\"https://lamphc.github.io/fe-up/#/resume/index\">https://lamphc.github.io/fe-up/#/resume/index</a>  面试题<br />\n B 站 codereasy 有面试题可以看看</p>\n<p><a href=\"https://www.bootcss.com/\">https://www.bootcss.com/</a>  Bootstrap 文档</p>\n<p><a href=\"https://www.swiper.com.cn/\">https://www.swiper.com.cn/</a>swiper 多适用于移动端的插件（例如快速构建轮播图）</p>\n<p><a href=\"https://www.webpackjs.com/\">https://www.webpackjs.com/</a> Webpack 网站</p>\n<p><a href=\"https://www.npmjs.com/\">https://www.npmjs.com/</a> 需要用 npm 下载的包，不知道包名可以查找</p>\n<p><a href=\"https://www.bootcdn.cn/\">https://www.bootcdn.cn/</a> 查找 cdn 的网站</p>\n<p><a href=\"https://unpkg.com/%7B%E8%A6%81%E6%9F%A5%E6%89%BE%E7%9A%84%E6%8F%92%E4%BB%B6%E5%90%8D%7D\">https://unpkg.com/{要查找的插件名}</a>  如果没有对应 cdn，可在这个网站后面加上要查找的插件名，网站会自动跳转不全这个 unpkg，然后直接引用就可以了</p>\n",
+            "tags": []
+        },
+        {
             "id": "http://example.com/2024/06/02/hello-world/",
             "url": "http://example.com/2024/06/02/hello-world/",
             "title": "Hello World",
